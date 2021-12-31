@@ -20,7 +20,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # LOL TOKEN GO BRR
-BOT_TOKEN = os.environ.get("TOKEN")  # your discord bot token
+BOT_TOKEN = os.environ.get("OTI2Mjc4NTYxNzMwNTU1OTg1.Yc5WIg.nWCwTtB8tFNf04jolOfjmw_c8Og")  # your discord bot token
 BOT_TOKEN_BETA = os.environ.get("TOKEN_BETA")  # the token of the beta bot (optional)
 
 MONGO_DB_URL = os.environ.get("MONGO")  # your mongodb database connection url string
